@@ -15,7 +15,7 @@
 	<name>spring-boot-swagger-3-example</name>
 	<description>Spring Boot and Swagger 3 example: Rest API Documentation</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
