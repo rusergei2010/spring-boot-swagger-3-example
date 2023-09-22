@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'NarwhalWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10F2348D57A8429DB4EEF2A9F9BD52E6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_49D4D3E0CC4941FDBA76E0AFF50DC4F4 }}
           package: '*.war'
